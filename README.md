@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on odatabase projects and open source contribution
 - ⚡ Fun fact: I love watching movies and playing chess.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/@Oluwaseun4Show?color=%231DA1F2&label=Follow%20%40@Oluwaseun4Show&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=@Oluwaseun4Show)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Oluwaseun4Show?color=%231DA1F2&label=Follow%20%40Oluwaseun4Show&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Oluwaseun4Show)
 [![Linkedin Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaseun-odusanwo-/)
  
  
